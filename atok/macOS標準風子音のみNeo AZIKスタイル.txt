@@ -320,7 +320,3 @@ zye            じぇ
 zyi            じぃ
 zyo            じょ
 zyu            じゅ
-zh             ←
-zj             ↓
-zk             ↑
-zl             →
